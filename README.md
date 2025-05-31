@@ -42,7 +42,7 @@ Contributions are welcome! Fork the repo and submit a pull request.
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2025 Vajran-K
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
